@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "h38Yo9ALaiDKq+9CPxHBr5y4k/OKS24E1QQ05LjLMZY=",
+  "Source": "Lab5",
+  "BasePath": "_content/Lab5",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab5\\wwwroot",
+      "Source": "Lab5",
+      "ContentRoot": "C:\\Users\\doug_\\source\\repos\\Lab5\\wwwroot\\",
+      "BasePath": "_content/Lab5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\doug_\\source\\repos\\Lab5\\wwwroot\\site.css",
+      "SourceId": "Lab5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\doug_\\source\\repos\\Lab5\\wwwroot\\",
+      "BasePath": "_content/Lab5",
+      "RelativePath": "site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\site.css"
+    }
+  ]
+}
